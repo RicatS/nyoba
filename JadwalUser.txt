@@ -1,0 +1,64 @@
+=====================================
+Hari : senin
+Konsuler : Sena
+Waktu : 08:00 - 12:00
+Status : Available
+=====================================
+=====================================
+Hari : senin
+Konsuler : Adiarja
+Waktu : 12:00 - 16:00
+Status : Not Available
+di Booking oleh : agus
+NIM : 12
+Umur : 31
+No hp : 20
+=====================================
+=====================================
+Hari : selasa
+Konsuler : Selia
+Waktu : 08:00 - 12:00
+Status : Available
+=====================================
+=====================================
+Hari : selasa
+Konsuler : Elizabeth
+Waktu : 12:00 - 16:00
+Status : Available
+=====================================
+=====================================
+Hari : rabu
+Konsuler : Rabita
+Waktu : 08:00 - 12:00
+Status : Available
+=====================================
+=====================================
+Hari : rabu
+Konsuler : Leon
+Waktu : 12:00 - 16:00
+Status : Available
+=====================================
+=====================================
+Hari : kamis
+Konsuler : Kamila
+Waktu : 08:00 - 12:00
+Status : Available
+=====================================
+=====================================
+Hari : kamis
+Konsuler : Tiffa
+Waktu : 12:00 - 16:00
+Status : Available
+=====================================
+=====================================
+Hari : jumat
+Konsuler : Jumarni
+Waktu : 08:00 - 12:00
+Status : Available
+=====================================
+=====================================
+Hari : jumat
+Konsuler : Kafka
+Waktu : 12:00 - 16:00
+Status : Available
+=====================================

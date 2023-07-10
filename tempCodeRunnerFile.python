@@ -1,0 +1,5 @@
+nama = str(input("Masukan Nama : "))
+
+file = open("Gaji.txt","w")
+file.write("Nama : " , nama)
+file.close()
